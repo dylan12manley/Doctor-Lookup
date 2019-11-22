@@ -2,7 +2,7 @@
 
 #### _API Practice, November, 20th, 2019_
 
-#### By _**Jonathan Salfen and Dylan Manley**_
+#### By _**Dylan Manley**_
 
 ## Description
 
